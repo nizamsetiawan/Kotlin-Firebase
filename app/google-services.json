@@ -1,6 +1,9 @@
 {
   "project_info": {
     "project_number": "633844680745",
+
+    "firebase_url": "https://kotlin-firebase-64b7f-default-rtdb.firebaseio.com",
+
     "project_id": "kotlin-firebase-64b7f",
     "storage_bucket": "kotlin-firebase-64b7f.appspot.com"
   },
