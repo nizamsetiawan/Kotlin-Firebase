@@ -2,9 +2,7 @@
     <string name="app_name">kotlin-firebase</string>
     <string name="sign_out">Sign Out</string>
     <string name="web_client_id">633844680745-cktctl432r22kr505pto1cnknkhj5l7i.apps.googleusercontent.com</string>
-    <string name="sign_out">Sign Out</string>
     <string name="send_success">Berhasil terkirim</string>
     <string name="send_error">Gagal terkirim</string>
-    <string name="web_client_id">633844680745-cktctl432r22kr505pto1cnknkhj5l7i.apps.googleusercontent.com</string>
 
 </resources>

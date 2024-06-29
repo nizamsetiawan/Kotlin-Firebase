@@ -23,7 +23,6 @@ import com.nizamsetiawan.app.kotlin_firebase.databinding.ActivityLoginBinding
 import kotlinx.coroutines.launch
 
 class LoginActivity : AppCompatActivity() {
-    //BINDING
     private lateinit var binding: ActivityLoginBinding
     private lateinit var auth: FirebaseAuth
 
